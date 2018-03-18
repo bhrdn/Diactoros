@@ -6,6 +6,7 @@
         "name": "bhrdn",
         "email": "habibbahruddin1337@gmail.com"
     }],
+    "minimum-stability": "dev",
     "require": {
         "php": "^7.0"
     },
