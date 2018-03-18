@@ -1,0 +1,17 @@
+{
+    "name": "bhrdn/diactoros",
+    "description": "Unicode Character Replacer",
+    "license": "MIT",
+    "authors": [{
+        "name": "bhrdn",
+        "email": "habibbahruddin1337@gmail.com"
+    }],
+    "require": {
+        "php": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Diactoros\\": "src/"
+        }
+    }
+}
