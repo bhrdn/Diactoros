@@ -29,7 +29,7 @@ abstract class DiactorosEngine
     /**
      * Add array list for replacer
      *
-     * @param string $replacer
+     * @param array $replacer
      */
     public function addReplacer(array $replacer)
     {
@@ -61,7 +61,6 @@ class Diactoros extends DiactorosEngine
 	/**
      * Replace character with new unicode character
      *
-     * @param string $str
      * @return unicode character
      */
     public function encode()
